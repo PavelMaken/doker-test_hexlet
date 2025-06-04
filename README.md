@@ -36,4 +36,4 @@ CREATE TABLE product_materials(
   required_amount_of_material NUMERIC(4,2)
 );
 
-
+COPY table_name FROM 'path_to_file' WITH (FORMAT CSV, DELIMITER ';');.
