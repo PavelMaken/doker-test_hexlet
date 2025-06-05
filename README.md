@@ -43,3 +43,5 @@ COPY table_name FROM 'path_to_file' WITH (FORMAT CSV, DELIMITER ';');.
 Ну лан ес че ща в магаз слетаю, кушать хочетса....
 
 ну я тута)
+
+да у нас не те варианты дали, все я тоже тут 
