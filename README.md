@@ -59,3 +59,11 @@ COPY table_name FROM 'path_to_file' WITH (FORMAT CSV, DELIMITER ';');.
 Тебе нужно будет в коде на них ссылаться? Если да, то вы выноси, если нет, то и нахуй? Ваще кинь скрины всех табличек, лучше с ориентирую тогда 
 
 Ну вообще выглядит как табличка, где ты должен просто протыкать id партнеров и все, у нас было похожее задание, попробую скриптик поискать 
+
+
+![изображение](https://github.com/user-attachments/assets/fe919507-61ff-4948-8a71-1f79a1fe9979)
+![изображение](https://github.com/user-attachments/assets/1212b84d-ef74-4f29-b263-9a22395a3b7a)
+![изображение](https://github.com/user-attachments/assets/8124eac8-5622-46d3-b4f8-2aa9e2e59e3c)
+![изображение](https://github.com/user-attachments/assets/edc688bd-d01d-4595-8702-d568a36d01d8)
+![изображение](https://github.com/user-attachments/assets/6bbcd7f8-165d-47a1-b9cb-783c52f1ffe6)
+вот все таблицы, где то уже поправил 
