@@ -69,3 +69,7 @@ COPY table_name FROM 'path_to_file' WITH (FORMAT CSV, DELIMITER ';');.
 вот все таблицы, где то уже поправил 
 
 ну вообще все четенько выглядит
+
+
+
+даник - ебанулись??
