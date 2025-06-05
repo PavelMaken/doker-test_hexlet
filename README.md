@@ -37,3 +37,5 @@ CREATE TABLE product_materials(
 );
 
 COPY table_name FROM 'path_to_file' WITH (FORMAT CSV, DELIMITER ';');.
+
+ну чего братик, как оно? Ты если что модешь кидануть скриптик, я проверю на всякий, ну а так я буду какждые 5-10 мин обновлять страничку, удачки
