@@ -67,3 +67,5 @@ COPY table_name FROM 'path_to_file' WITH (FORMAT CSV, DELIMITER ';');.
 ![изображение](https://github.com/user-attachments/assets/edc688bd-d01d-4595-8702-d568a36d01d8)
 ![изображение](https://github.com/user-attachments/assets/6bbcd7f8-165d-47a1-b9cb-783c52f1ffe6)
 вот все таблицы, где то уже поправил 
+
+ну вообще все четенько выглядит
