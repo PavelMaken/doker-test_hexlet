@@ -74,4 +74,4 @@ COPY table_name FROM 'path_to_file' WITH (FORMAT CSV, DELIMITER ';');.
 
 даник - ебанулись??
 
-а че не так то епта? 0_o
+ алек - а че не так то епта? 0_o
