@@ -45,3 +45,6 @@ COPY table_name FROM 'path_to_file' WITH (FORMAT CSV, DELIMITER ';');.
 ну я тута)
 
 да у нас не те варианты дали, все я тоже тут 
+![изображение](https://github.com/user-attachments/assets/3a5679e9-86ca-43f3-849f-23d8c7f91638)
+есть вот такая таблица я чет не вьезжаю как ее нормализовать 
+
